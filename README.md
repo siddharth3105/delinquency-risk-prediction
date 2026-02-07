@@ -39,5 +39,10 @@ The dataset contains customer demographic, financial, and behavioral attributes 
 - Supervised model development (Logistic Regression, Tree-based models)
 - Model explainability using SHAP or feature importance
 
-## Author
-Shidharth
+## Data Confidentiality
+Due to data confidentiality and company policy, the original dataset used for this analysis
+is not included in this repository.
+
+The project focuses on demonstrating the analytical approach, risk identification logic,
+and EDA methodology rather than data disclosure.
+
